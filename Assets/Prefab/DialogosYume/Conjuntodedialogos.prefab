@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4083507761997680161
+--- !u!1 &4445895352009992895
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4083507761997680163}
-  - component: {fileID: 4083507761997680162}
+  - component: {fileID: 4445895352009992893}
+  - component: {fileID: 4445895352009992892}
   m_Layer: 0
   m_Name: Conjuntodedialogos
   m_TagString: Untagged
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4083507761997680163
+--- !u!4 &4445895352009992893
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4083507761997680161}
+  m_GameObject: {fileID: 4445895352009992895}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.51199, y: -0.28906745, z: -0.12220749}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,27 +31,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4083507761997680162
+--- !u!114 &4445895352009992892
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4083507761997680161}
+  m_GameObject: {fileID: 4445895352009992895}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa246f5e4ff267e4286b42b98ab4471b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   numeroDialogo: 1
-  character: {fileID: 3962090589628171066, guid: 5733ca375115acc48b351087cf28e7cf, type: 3}
+  character: {fileID: 2725280875565496706, guid: 09bf68256e2316742bedfc7e84c24971, type: 3}
   dialogo:
-  - QUEEEEEEEEEEEEEEEEE?
-  - Pero por que me pides eso a mi?
-  - "NI DE LOCA ENTRO AH\xCD, hay insectos extra\xF1os, aparte no da buena pinta
-    ese lugar."
-  - Que te parece si mejor nos vamos a comer un helado, y te compro otro celular
-  - Que te parece si mejor nos vamos a comer un helado, y te compro otro celular
-  - "Mi padre es rico, trabaja en una de compa\xF1ias de celulares, me lo regalara"
-  - aunque pensandolo bien, no se si tengas para respaldar los telefenos de tu agenda.
-  - Te parece bien si le decimos a ese chico?.
+  - Espera... Espera...
+  - "podr\xEDas ayudarme?"
+  - mi celular se quedo adentro de ese tunel obscuro
+  - y se ve tenebroso, tengo una llamada del hospital
+  - mi madre se encuentra en el, y tengo que saber de ella.
+  - no soy valiente, pero si tu pudieras entrar...
+  - "hay gritos y el aire est\xE1 que te cala los huesos."
+  - por favor, te lo ruego!.

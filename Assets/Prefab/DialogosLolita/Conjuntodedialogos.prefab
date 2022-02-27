@@ -43,10 +43,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa246f5e4ff267e4286b42b98ab4471b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numeroDialogo: 1
+  numeroDialogo: 2
   character: {fileID: 3962090589628171066, guid: 5733ca375115acc48b351087cf28e7cf, type: 3}
   dialogo:
-  - QUEEEEEEEEEEEEEEEEE?
+  - Queeeeeeeeeeee?
   - Pero por que me pides eso a mi?
   - "NI DE LOCA ENTRO AH\xCD, hay insectos extra\xF1os, aparte no da buena pinta
     ese lugar."
