@@ -19,7 +19,7 @@ public class SistemaControl : MonoBehaviour
 
     public int indiceDialogo;
 
-    public int ActorActual;
+    public int ActorActual; // el actor actual no ayudara a posicionar al actor, antes de avanzar al otro.
 
     // Start is called before the first frame update
     void Start()
