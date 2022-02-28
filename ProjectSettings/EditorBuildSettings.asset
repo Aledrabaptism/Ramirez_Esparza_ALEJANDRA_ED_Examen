@@ -9,18 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Level 4.unity
+    path: Assets/Scenes/Escenas level 4/Level 4.unity
     guid: 418e800785868e34489c2c66e247549f
   - enabled: 1
-    path: Assets/Scenes/Zenitsu.unity
+    path: Assets/Scenes/Escenas level 4/Zenitsu.unity
     guid: c5abafcf76c9ec64a8d50f472361f5bc
   - enabled: 1
-    path: Assets/Scenes/Opciones.unity
+    path: Assets/Scenes/Escenas level 4/Opciones.unity
     guid: d8c82d6f3dcbc834d8e6a18ee91260db
   - enabled: 1
-    path: Assets/Scenes/Juego.unity
+    path: Assets/Scenes/Escenas level 4/Juego.unity
     guid: 433e564f2482c2a45898b03d24237aef
   - enabled: 1
-    path: Assets/Scenes/Historia.unity
+    path: Assets/Scenes/Escenas level 4/Historia.unity
     guid: ce5faa4e773963f4e92523a5a53f51d0
   m_configObjects: {}

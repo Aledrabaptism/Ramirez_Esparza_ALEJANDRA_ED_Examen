@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4348019480706654816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4348019480706654818}
+  - component: {fileID: 4348019480706654819}
+  m_Layer: 0
+  m_Name: Conjuntodedialogos 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4348019480706654818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4348019480706654816}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.51199, y: -0.28906745, z: -0.12220749}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4348019480706654819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4348019480706654816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa246f5e4ff267e4286b42b98ab4471b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numeroDialogo: 3
+  character: {fileID: 8290735875036141264, guid: 58d29b7fa1f2f954b8b1b40802d7662d, type: 3}
+  dialogo:
+  - Hola chicas
+  - lamento interrumpir su charla
+  - "Yumeeee! te segui vaya que caminas r\xE1pido"
+  - olvidaste esto dentro del laboratorio de quimica
+  - "qu\xE9 es eso? un elixir que ilumina o algo?"
+  - "parece poderoso, tambi\xE9n est\xE1s galletas"
+  - "que despistada, hola Lolita,traje est\xE1 mochila llena de experimentos"
+  - tal vez nos pueda ayudar a entrar al tunel, por lo que escuche yume necesita
+    ayuda!.

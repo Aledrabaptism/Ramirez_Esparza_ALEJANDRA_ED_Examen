@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4445895352009992895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4445895352009992893}
+  - component: {fileID: 4445895352009992892}
+  m_Layer: 0
+  m_Name: Conjuntodedialogos 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4445895352009992893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4445895352009992895}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.51199, y: -0.28906745, z: -0.12220749}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4445895352009992892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4445895352009992895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa246f5e4ff267e4286b42b98ab4471b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numeroDialogo: 1
+  character: {fileID: 2725280875565496706, guid: 09bf68256e2316742bedfc7e84c24971, type: 3}
+  dialogo:
+  - Espera... Espera...
+  - "podr\xEDas ayudarme?"
+  - mi celular se quedo adentro de ese tunel obscuro
+  - y se ve tenebroso, tengo una llamada del hospital
+  - mi madre se encuentra en el, y tengo que saber de ella.
+  - no soy valiente, pero si tu pudieras entrar...
+  - "hay gritos y el aire est\xE1 que te cala los huesos."
+  - por favor, te lo ruego!.
